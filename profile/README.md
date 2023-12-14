@@ -1,4 +1,4 @@
-## Welcome to the ϵ✵ team 🙌
+## Welcome to the Everywhere✵Computer 🌐💻
 
 ### Getting Started
 To get started, head over to https://docs.everywhere.computer 
